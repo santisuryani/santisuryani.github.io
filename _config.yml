@@ -17,7 +17,7 @@ navigation:
  - title: About
    url: /about
  - title: uin
-   url: /uin-suska.ac.id/
+   url: http://uin-suska.ac.id/
 
 social:
    github: brianmaierjr
