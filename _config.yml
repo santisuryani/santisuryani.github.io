@@ -14,10 +14,10 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- -// title: sif
-  // url: http://sif.uin-suska.ac.id/
- - //title: uin
-   //url: http://uin-suska.ac.id/
+ - title: About
+  url: /index.html
+ - title: Contact
+   url: /index.html
 social:
    github: brianmaierjr
    twitter: brianmaierjr
