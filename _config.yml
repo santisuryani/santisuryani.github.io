@@ -14,7 +14,7 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
+ - title: SIF
   url: /index.html
  - title: Contact
    url: /index.html
