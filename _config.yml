@@ -18,8 +18,8 @@ navigation:
   url: /index.html
  - title: Contact
    url: /index.html
-   tetle:sif
-   url: http://sif.uin-suska.ac.id/
+   tetle: Sif
+   url: /index.html
 social:
    github: brianmaierjr
    twitter: brianmaierjr
