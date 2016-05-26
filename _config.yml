@@ -12,14 +12,16 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
+ title: Home
    url: /index.html
- - title:Contact
-   url: /index.html
- - title: Uin
-   url: /uin-suska.ac.id
- - title: Sif
-   url: /sif.uin-suska.ac.id
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+ - title: SIF
+   url: //sif.uin-suska.ac.id/
+ - title: UIN
+   url: //uin-suska.ac.id/
 social:
    github: brianmaierjr
    twitter: brianmaierjr
