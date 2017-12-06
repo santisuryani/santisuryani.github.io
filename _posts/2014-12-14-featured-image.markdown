@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Featured Image"
-date:   2014-12-14
+title:  "Science and Technology Faculty"
+date:   2017-12-06
 image: touring.jpg
 ---
 
