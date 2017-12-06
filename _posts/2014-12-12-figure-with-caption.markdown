@@ -2,7 +2,7 @@
 layout: post
 title:  "The university"
 date:   2017-12-06
-image: gerbang uin.gif
+image: gerbang uin.jpg
 site: https://uin-suska.ac.id/profil/sejarah-ringkas-universitas/
 ---
 
