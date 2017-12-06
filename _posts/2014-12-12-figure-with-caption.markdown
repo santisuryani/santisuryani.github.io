@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Figure With A Caption"
-date:   2014-12-12
+title:  "The university"
+date:   2017-12-06
+image: gerbang uin.jpg
 ---
 
 
