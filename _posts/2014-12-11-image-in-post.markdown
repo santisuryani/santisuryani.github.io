@@ -2,7 +2,7 @@
 layout: post
 title:  "Author"
 date:   2017-12-06
-image: IMG-20171108-WA0047.jpg
+image: santi.jpg
 ---
 
 <p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
