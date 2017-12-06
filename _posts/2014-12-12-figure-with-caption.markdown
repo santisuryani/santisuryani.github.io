@@ -3,7 +3,7 @@ layout: post
 title:  "The university"
 date:   2017-12-06
 image: gerbang uin.jpg
-link: https://uin-suska.ac.id/profil/sejarah-ringkas-universitas/
+site: https://uin-suska.ac.id/profil/sejarah-ringkas-universitas/
 ---
 
 
@@ -12,13 +12,13 @@ link: https://uin-suska.ac.id/profil/sejarah-ringkas-universitas/
 Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.
 
 <figure>
-	<img src="{{ '/assets/img/gerbang uin.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/rektorat uin.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Fig1. - This is an example figcaption</figcaption>
 </figure>
 
 {% highlight html %}
 <figure>
-	<img src="{{ '/assets/img/gerbang uin.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/rektorat uin.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Fig1. - This is an example figcaption</figcaption>
 </figure>
 {% endhighlight %}
