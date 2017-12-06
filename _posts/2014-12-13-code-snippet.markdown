@@ -7,7 +7,7 @@ image: Dekan faste.jpg
 
 <p class="intro"><span class="dropcap">P</span>rofile dean of science and technology faculty.</p>
 
-    Nama : Dr. Hartono, M.Pd.
+    <p1="Nama : Dr. Hartono, M.Pd."<p1>
     Dr. Hartono, M.Pd Dekan FST UIN Suska Riau
 
     Dr. Hartono, M.Pd
