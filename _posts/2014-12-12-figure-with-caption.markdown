@@ -11,9 +11,7 @@ site: https://uin-suska.ac.id/profil/sejarah-ringkas-universitas/
 
 Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.
 
----
-image: rektorat uin.gif
----
+
 <figure>
 	<img src="{{ '/assets/img/rektorat uin.gif' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Fig1. - This is an example figcaption</figcaption>
