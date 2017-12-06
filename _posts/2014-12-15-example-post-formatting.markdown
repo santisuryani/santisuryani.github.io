@@ -4,7 +4,8 @@ title:  "Information System"
 date:   2017-12-6
 ---
 
-<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
+<p class="intro"><span class="dropcap">C</span>Information Systems (SI) is a combination of information technology and the activities of people using the technology to support operations and management. In a very broad sense, the term often used information system refers to interactions between people, algorithmic processes, data, and technology. In this sense, the term is used to refer not only to the use of information and communication technology (ICT) organizations, but also to the ways in which people interact with this technology in support of business processes.
+ urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
 
 # Heading 1
 
