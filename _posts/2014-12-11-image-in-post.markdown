@@ -8,11 +8,10 @@ image: santi.jpg
 <p class="intro"><span class="dropcap"></span>My name is Santi Suryani, born on 10 November 1996 in Sungai Guntung regency of Indragiri Hilir Riau province. I was born from both parents named my Father M. nur and my Mother named Siti Nurbaya. I am the fifth child of eight brothers, I have four sisters and four brothers..</p>
 
 Educational Background:
-Madrasah Ibtidaiyah Nurul ihksan in 2008
+Madrasah Ibtidaiyah Nurul ihksan in 2008.
+MTS Al-Ikhlas in 2011.
 
-MTS Al-Ikhlas in 2011
-
-SMA N 1 Kateman 2014
+SMA N 1 Kateman 2014.
 
 Student at State university college sultan syarif eunuch riau start year 2014 until now.
 
