@@ -5,14 +5,14 @@ date:   2017-12-06
 image: faste.jpg
 ---
 
-<p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
+<p class="intro"><span class="dropcap">F</span>aculty of science and technology consists of five majors, namely informatics engineering, industrial engineering.</p>
+  
+Faculty of Science and Technology was established at the end of 2001 as preparation for change of status from Sultan Syarif Qasim State Islamic Institute (IAIN SUSQA) Pekanbaru became State Islamic University of Sultan Syarif Kasim Riau (UIN Suska) Riau. The embryo of the establishment of the Faculty of Science and Technology began the opening of the Department of Informatics in 1999 and the Department of Industrial Engineering in 2001. Both of these majors are under the auspices of the Faculty of Da'wah. With the two majors, then established the Faculty of Science and Technology with:
 
-Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.
+    Decree of Rector Number: 163 / R / 2001 dated December 2001
+    Law number 20 of 2003 on National Education System (State Institution Year 2003 Number 78)
+    Regulation of the President of the Republic of Indonesia Number 2 Year 2005 concerning Amendment of IAIN Sultan Syarif Qasim Riau.
+    Decree of the Minister of Religious Affairs of the Republic of Indonesia Number 8 of 2005 on the organizational structure and working procedures of UIN Suska Riau.
+    Decree of the Director General of BAGAIS number: DJ.II / 26/2006 dated February 20, 2006 concerning the permission of the implementation of the undergraduate study program.
 
-Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.
-
-Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.
-
-Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.
-
-Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.
+In 2002, formed Department of Information Systems and Applied Mathematics, then in 2003 formed the Department of Electrical Engineering with Electronic Engineering and Telecommunications courses. The background of the establishment of the Faculty of Science and Technology and its majors is to respond to the needs of the business world and industry in Riau Province, as well as to anticipate the globalization effect of the world.
