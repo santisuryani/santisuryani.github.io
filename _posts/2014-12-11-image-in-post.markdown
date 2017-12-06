@@ -9,7 +9,9 @@ image: santi.jpg
 
 Educational Background:
 <p1 class="intro"><span class="dropcap"></span>Madrasah Ibtidaiyah Nurul ihksan in 2008.</p1>
+
 <p2 class="intro"><span class="dropcap"></span>MTS Al-Ikhlas in 2011.</p2>
+
 Madrasah Ibtidaiyah Nurul ihksan in 2008
 MTS Al-Ikhlas in 2011
 SMA N 1 Kateman 2014
