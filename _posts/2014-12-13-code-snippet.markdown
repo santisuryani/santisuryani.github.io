@@ -2,7 +2,7 @@
 layout: post
 title:  "DEKAN"
 date:   2017-12-06
-image: santi.jpg
+image: Dekan faste.jpg
 ---
 
 <p class="intro"><span class="dropcap">P</span>rofile dean of science and technology faculty.</p>
